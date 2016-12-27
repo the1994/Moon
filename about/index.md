@@ -14,7 +14,4 @@ comments: false
 
 ## 최연정 Choi Yeonjeong  
 
-I'm Choi Yeonjeong. I live in Busan.  
-My major is Computer Science.  
-
-I like computer, fried chicken, watching movies, skateboarding and badminton!
+Hello~~~~~~~~!!!!!
