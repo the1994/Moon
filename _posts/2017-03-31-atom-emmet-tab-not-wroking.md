@@ -9,7 +9,6 @@ comments: true
 
 Atom - Keymap - keymap.cson 파일에 다음 내용 추가하고 저장하기.
 
-```cson
-'atom-text-editor:not([mini])':
+{% highlight cson %} 'atom-text-editor:not([mini])':
   'tab': 'emmet:expand-abbreviation-with-tab'
-```
+{% endhighlight %}
