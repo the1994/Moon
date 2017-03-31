@@ -1,8 +1,9 @@
 ---
 layout: post
-title: [Atom] emmet tab키가 작동이 안될 때
+title: "[Atom] emmet tab키가 작동이 안될 때"
 date: 2017-03-31
 tags: [Atom, emmet, error]
+excerpt: "atom emmet tab"
 comments: true
 ---
 
